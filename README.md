@@ -27,4 +27,9 @@ For Data cleaning we have used Open CV. Data Cleaning process contains:
 2) With the help "nginx" delpoyed client mode by making changes in nginx.config
 
 
+<b> Deployment on AWS EC2 Instance</b>
+
 # UI Screenshots:
+<img src="https://github.com/maha-prathamesh/Image-Classification/blob/main/UI/images/SC1.png"/>
+</br></br></br></br></br>
+<img src="https://github.com/maha-prathamesh/Image-Classification/blob/main/UI/images/SC2.png"/>
