@@ -1,2 +1,2 @@
-# Image-Classification
-Image Classification
+# Image-Classification of IPL Captains
+
